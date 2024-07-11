@@ -2,4 +2,4 @@
 Hello World repository for Git tutorial
 
 This repository is built step by step in the tutorial.
-it now includes steps for Github
+Includes with how to work on branches on Github
